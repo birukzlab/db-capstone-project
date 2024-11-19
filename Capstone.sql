@@ -1,0 +1,1 @@
+Show tables FROM LittleLemonDM;
